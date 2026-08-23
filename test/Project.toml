@@ -1,2 +1,3 @@
 [deps]
+CenterCrop = "99b5e68b-6e4b-4695-ac8d-97c77a55d798"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
